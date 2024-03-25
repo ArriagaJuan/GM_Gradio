@@ -11,3 +11,4 @@ For this, you need to download two models and save them in the following directo
 - Put [s3fd-619a316812.pth](https://www.dropbox.com/scl/fi/5r5tem8lm9r9j220wqbhk/s3fd-619a316812.pth?rlkey=t6kxmzim1rmiqb529rstn147t&dl=0) inside face_detection/detection.
 
 "# DG_API" 
+"# GM_Gradio" 
