@@ -12,3 +12,4 @@ For this, you need to download two models and save them in the following directo
 
 "# DG_API" 
 "# GM_Gradio" 
+"# GM_Gradio" 
